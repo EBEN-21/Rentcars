@@ -3,10 +3,10 @@ import Cars from './Cars'
 
 const Rentals = () => {
   return (
-    <div className='container mx-auto mt-20 flex items-center justify-center flex-col '>
+    <div className='container mx-auto mt-20 px-10 flex items-center justify-center flex-col  '>
       <div className='flex flex-col items-center justify-center gap-5 '>
           <h1 className='max-w-[228px] bg-[#1572D31A] py-4 px-6 rounded-lg font-medium text-sm text-[#1572D3] '>POPULAR RENTAL DEALS</h1>
-          <p  className='font-medium text-[#333333] text-4xl  '>Most popular cars rental deals</p>
+          <p  className='font-medium text-[#333333] text-4xl text-center'>Most popular cars rental deals</p>
         </div>
 
         <div className='mt-10 flex flex-wrap md:flex-row items-center justify-center gap-14 '>
