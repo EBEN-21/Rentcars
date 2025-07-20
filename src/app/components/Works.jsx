@@ -3,7 +3,7 @@ import BrandSlider from './BrandSlider';
 
 const Works = () => {
   return (
-    <div className="mt-28 px-10 lg:px-0">
+    <div className="mt-28 px-4 lg:px-0">
       <div className="container mx-auto">
         <div className="flex flex-col items-center justify-center">
           {/* heading */}

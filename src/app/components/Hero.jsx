@@ -10,7 +10,7 @@ const Hero = () => {
         <img src='/images/bottom.svg' width={380} className='absolute right-0 bottom-[-8%] opacity-10 z-0' />
       </div>
 
-      <div className='flex items-center overflow-hidden justify-between px-10 lg:px-0'>
+      <div className='flex items-center overflow-hidden justify-between px-4 lg:px-0'>
         <div className='lg:w-[500px] w-full relative z-10 flex flex-col text-center lg:text-left lg:pl-24'>
 
           <h1 className='font-semibold text-3xl sm:text-4xl lg:text-5xl mb-7'>

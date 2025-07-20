@@ -5,7 +5,7 @@ import 'animate.css';
 
 const Offer = () => {
   return (
-    <div className='mt-20 px-10 lg:px-0 lg:pr-10 mb-12 '>
+    <div className='mt-20 px-4 lg:px-0 lg:pr-10 mb-12 '>
       <div className='flex flex-col lg:flex-row items-center justify-between gap-12'>
 
         {/* Image Section (Hidden on Small Screens) */}

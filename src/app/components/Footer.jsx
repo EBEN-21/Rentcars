@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className='lg:px-[150px] px-10 pt-[51px] mt-2 flex flex-col items-center justify-between bg-[#051C34] relative'>
+    <div className='lg:px-[150px] px-4 pt-[51px] mt-2 flex flex-col items-center justify-between bg-[#051C34] relative'>
         
         <div className='flex flex-col lg:flex-row items-start justify-between w-full lg:gap-32 gap-10 '>
             {/* logo and its content */}

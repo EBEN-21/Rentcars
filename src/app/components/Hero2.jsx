@@ -10,7 +10,7 @@ const Hero2 = () => {
       </div>
 
       {/* Content Wrapper */}
-      <div className='flex flex-col lg:flex-row items-center justify-between relative container mx-auto px-10 lg:px-24 '>
+      <div className='flex flex-col lg:flex-row items-center justify-between relative container mx-auto px-4 lg:px-24 '>
 
         {/* Text Section */}
         <div className='lg:max-w-[480px] w-full relative z-10 pt-14 text-center flex flex-col items-center lg:items-start lg:text-left'>

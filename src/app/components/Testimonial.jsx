@@ -3,7 +3,7 @@ import TestimonialSlider from './TestimonialSlider'
 
 const Testimonial = () => {
   return (
-    <div className='w-full  items-center justify-center mt-20 pb-14 px-10 lg:px-0 bg-[#F7FBFF]  '>
+    <div className='w-full  items-center justify-center mt-20 pb-14 px-4 lg:px-0 bg-[#F7FBFF]  '>
 
         <div className='relative w-full hidden lg:block '>
             <img src="/rentals/“.svg" alt="" width={260} className='absolute right-40 top-0 '  />
